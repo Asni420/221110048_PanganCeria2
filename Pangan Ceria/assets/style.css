@@ -1,0 +1,42 @@
+.dropdown-menu {
+  background-color: rgb(35, 142, 71);
+}
+.dropwon-item {
+  color: white;
+}
+.collapse {
+  background-color: rgb(35, 142, 71);
+}
+
+.display-5 {
+  font-family: 'Kumar One', serif;
+  font-weight: 400;
+  font-style: italic;
+  color: rgb(35, 142, 71);
+}
+
+.lead {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 10;
+  font-style: normal;
+}
+
+nav {
+  padding-top: 5 rem;
+}
+
+.card-body {
+  background-color: rgb(35, 142, 71);
+  color: white;
+}
+
+.lead {
+  color: rgb(35, 142, 71);
+}
+
+.hihi {
+  color: rgb(35, 142, 71);
+}
+#kategori {
+  padding-top: 10rem;
+}
